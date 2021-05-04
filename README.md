@@ -3,6 +3,9 @@ This project implements the Neural Style Transfer algorithm created by  [Gatys e
 
 Neural Style Transfer (NST) merges two images, namely: a "content" image (C) and a "style" image (S), to create a "generated" image (G). The generated image G combines the "content" of the image C with the "style" of image S.
 
+![image](https://user-images.githubusercontent.com/71698670/117066056-e1f1c900-ad45-11eb-98af-9db0373d5a7e.png)
+
+
 Following the original NST paper, we will use the VGG-19 network for this project. This model has already been trained on the very large ImageNet database, and thus has learned to recognize a variety of low level features (at the shallower layers) and high level features (at the deeper layers). The weights used in this project can be downloaded from [here.](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)
 
 

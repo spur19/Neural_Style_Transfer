@@ -226,8 +226,6 @@ def model_nn(sess, input_image, num_iterations = 200):
             print("content cost = " + str(Jc))
             print("style cost = " + str(Js))
             
-            # save current generated image in the "/output" directory
-            save_image("output/" + str(i) + ".png", generated_image)
     
     # save last generated image
     save_image('output/generated_image.jpg', generated_image)

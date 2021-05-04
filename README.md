@@ -19,7 +19,7 @@ We will build the Neural Style Transfer (NST) algorithm in three steps:
 
 # References:
 
-The Neural Style Transfer algorithm was due to Gatys et al. (2015). The pre-trained network used in this project is a VGG network, which is due to Simonyan and Zisserman (2015). Pre-trained weights were from the work of the MatConvNet team. 
+I did this project as a part of my course on Convolutional Neural Networks. The Neural Style Transfer algorithm was due to Gatys et al. (2015). The pre-trained network used in this project is a VGG network, which is due to Simonyan and Zisserman (2015). Pre-trained weights were from the work of the MatConvNet team. 
 
 - Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, (2015). [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) 
 - Karen Simonyan and Andrew Zisserman (2015). [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
